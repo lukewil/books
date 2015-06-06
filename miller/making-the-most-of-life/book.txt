@@ -17,14 +17,14 @@ J.R.M.
 # Chapter 1: Making the Most of Life
 
 
-<div id="chapterOpening">
+\startchapteropening
 Measure thy life by loss instead of gain;
 Not by the wine drunk, but the wine poured forth;
 For love's strength standeth in love's sacrifice,
 And whoso suffers most hath most to give.
 
 —The Disciples
-</div>
+\stopchapteropening
 
 According to our Lord's teaching, we can make the most of our life by losing it. He says that losing the life for his sake is saving it. There is a lower self that must be trampled down and trampled to death by the higher self. The alabaster vase must be broken, that the ointment may flow out to fill the house. The grapes must be crushed, that there may be wine to drink. The wheat must be bruised, before it can become bread to feed hunger.
 
@@ -42,7 +42,7 @@ A great church building is going up, and the stones that are being laid on the w
 
 These are simple illustrations of the law which applies also in human life. We must die to be useful—to be truly a blessing. Our Lord put this truth in a little parable, when he said that the seed must fall into the earth and die that it may bear fruit. Christ's own cross is the highest illustration of this. His friends said he wasted his precious life; but was that life wasted when Jesus was crucified? George MacDonald in one of his little poems, with deep spiritual insight, presents this truth of the blessed gain of Christ's life through his sacrifice and death:
 
-<div id="poem">
+\startpoem
 For three and thirty years, a living seed,
 A lonely germ, dropt on our waste world's side,
 Thy death and rising, thou didst calmly bide;
@@ -56,7 +56,7 @@ Three days asleep—oh, slumber godlike, brief,
 For Man of sorrows and acquaint with grief,
 Heaven's seed, Thou diedst, that out of thee might tower
 Aloft, with rooted stem and shadowy leaf Of all Humanity the crimson flower."
-</div>
+\stoppoem
 
 People said that Harriet Newell's beautiful life was wasted when she gave it to missions, and then died and was buried far from home—bride, missionary, mother, saint, all in one short year—without even telling to one heathen woman or child the story of the Savior. But was that lovely young life indeed wasted? No; all this century her name has been one of the strongest inspirations to missionary work, and her influence has brooded everywhere, touching thousands of hearts of gentle women and strong men, as the story of her consecration has been told. Had Harriet Newell lived a thousand years of quiet, sweet life at home, she could not have done the work that she did in one short year by giving her life, as it seemed, an unavailing sacrifice. She lost her life that she might save it. She died that she might live. She offered herself a living sacrifice that she might become useful.
 
@@ -76,7 +76,7 @@ We must get the same spirit in us if we would become in any large and true sense
 
 We must not fear that in such sacrifice, such renunciation and annihilation of self, we shall lose ourselves. God will remember every deed of love, every forgetting of self, every emptying out of life. Though we work in obscurest places, where no human tongue shall ever voice our praise, still there is a record kept, and some day rich and glorious reward will be given. Is not God's praise better than man's?
 
-<div id="poem">
+\startpoem
 Wild flowers which grow on mountain-paths untrod.  
 White water-lilies looking up to God  
 From solitary tarns—and human worth  
@@ -90,28 +90,28 @@ And in each simple duty, for whose sake
 His children give their very blood as price?  
 The Father sees. If this does not repay,  
 What else? For plucked flowers fade and praises slay.
-</div>
+\stoppoem
 
 Mary's ointment was wasted when she broke the vase and poured it upon her Lord. Yes; but suppose she had left the ointment in the unbroken vase? What remembrance would it then have had? Would there have been any mention of it on the Gospel pages? Would her deed of careful keeping have been told over all the world? She broke the vase and poured it out, lost it, sacrificed it, and now the perfume fills all the earth. We may keep our life if we will, carefully preserving it from waste; but we shall have no reward, no honor from it, at the last. But if we empty it out in loving service, we shall make it a lasting blessing to the world, and we shall be remembered forever.
 
 # Chapter 2: Laid on God's Altar
 
 
-<div id="chapterOpening">
+\startchapteropening
 And he bestows it upon all the race;  
 I lose it for his sake, and thus I save it;  
 I hold it close, but only to expend it;  
 Accept it, Lord, for others, through thy grace."  
-</div>
+\stopchapteropening
 
 We have to die to live. That is the central law of life. We must burn to give light to the world, or to give forth odor of incense to God's praise. We cannot save ourselves and at the same time make anything worthy of our life, or be in any deep and true sense an honor to God and a blessing to the world. The altar stands in the foreground of every life, and can be passed by only at the cost of all that is noblest and best.
 
 All the practical side of religion is summed up in the exhortation of St. Paul, that we present our bodies a living sacrifice to God. Anciently, a man brought a lamb and presented it to God, laid it on the altar, to be consumed by God's fire. In like manner, we are to present our bodies. The first thing is not to be a worker, a preacher, a saver of souls; the very first thing in a Christian life is to present one's self to God, to lay one's self on the altar. We need to understand this. It is easier to talk and work for Christ than to give ourselves to him. It is easier to offer God a few activities than to give him a heart. But the heart must be first, else even the largest gifts and services are not acceptable.
 
-<div id="poem">
+\startpoem
 'Tis not thy work the Master needs, but thee  
 The obedient spirit, the believing heart.  
-</div>
+\stoppoem
 
 "A living sacrifice." A sacrifice is something really given to God, to be his altogether and forever. We cannot take it back any more. One could not lay a lamb on God's altar and then a minute or two afterward run up and take it off. We cannot be God's today and our own tomorrow. If we become his at all, in a sacrifice which he accepts, we are his always.
 
@@ -131,12 +131,12 @@ We should do everything also for God's eye and according to the principles of ri
 
 Well, if Christian service were all talking and praying in meetings, and visiting the sick, it would be discouraging to such talentless people. But are our tongues the only faculties we can use for Christ? There are ways in which even silent people can belong to God and be a blessing in the world. A star does not talk, but its calm, steady beam shines down continually out of the sky, and is a benediction to many. A flower cannot sing bird-songs, but its sweet beauty and gentle fragrance make it a blessing wherever it is seen. Be like a star in your peaceful shining, and many will thank God for your life. Be like the flower in your pure beauty and in the influence of your unselfish spirit, and you may do more to bless the world than many who talk incessantly. The living sacrifice does not always mean active work. It may mean the patient endurance of a wrong, the quiet bearing of a pain, cheerful acquiescence in a disappointment.
 
-<div id="poem">
+\startpoem
 Noble deeds are held in honor;  
 But the wide world sadly needs  
 Hearts of patience to unravel  
 The worth of common deeds.  
-</div>
+\stoppoem
 
 There are some people who think it impossible in their narrow sphere and in their uncongenial circumstances to live so as to win God's favor or be blessings in the world. But there is no doubt that many of the most beautiful lives of earth, in Heaven's sight, are those that are lived in what seem the most unfavorable conditions. A visitor to Amsterdam wished to hear the wonderful music of the chimes of St. Nicholas, and went up into the tower of the church to hear it. There he found a man with wooden gloves on his hands, pounding on a keyboard. All he could hear was the clanging of the keys when struck by the wooden gloves, and the harsh, deafening noise of the bells close over his head. He wondered why people talked of the marvelous chimes of St. Nicholas. To his ear there was no music in them, nothing but terrible clatter and clanging. Yet, all the while, there floated out over and beyond the city the most entrancing music. Men in the fields paused in their work to listen and were made glad. People in their homes and travelers on the highways were thrilled by the marvelous bell-notes that fell from the chimes. 
 
@@ -156,13 +156,13 @@ We need to get this matter of consecration down out of cloud-land into the regio
 
 # Chapter 3: Christ's Interest in our Common Life
 
-<div id="chapterOpening">
+\startchapteropening
 So still, dear Lord, in every place  
 Thou standest by the toiling folk  
 With love and pity in thy face,  
 And givest of thy help and grace  
 To those who meekly bear the yoke. 
-</div>
+\stopchapteropening
 
 One of our Lord's after-resurrection appearances vividly pictures his loving interest in our common toil. While waiting for him to come to Galilee, the disciples had gone back for a time to their old work of fishing. They were poor men, and this was probably necessary in order to provide for their own subsistence. Thus fishing was the duty that lay nearest. Yet it must have been dreary work for them after the exalted privileges they had enjoyed so long. Think what the last three years had been to these men. Jesus had taken them into the most intimate fellowship with himself—into closest confidential friendship. They had listened to his wonderful words, seen his gracious acts, and witnessed his sweet life. Think what a privilege it was to live thus with Jesus those beautiful years; what glimpses of heaven they had; what visions of radiant life shone before them.
 
@@ -170,7 +170,7 @@ But now this precious experience was ended. The lovely dream had vanished. They 
 
 Then the revealings of his appearance that morning are for all his friends and for all time. We know now that our risen Savior is interested in whatever we have to do, and is ready to help us in all our dull, common life. He will come to his people, not in the church service, the prayer-meeting, the Holy Supper only, but is quite as apt to reveal himself to them in the task-work of the plainest, dullest day. Susan Coolidge writes:
 
-<div id="poem">
+\startpoem
 That thy full glory may abound, increase,  
 And so thy likeness shall be formed in me,  
 I pray; the answer is not rest or peace,  
@@ -191,7 +191,7 @@ But all my life is blossoming inwardly,
 And every breath is like a litany;  
 While through each labor, like a thread of gold,  
 Is woven the sweet consciousness of thee.  
-</div>
+\stoppoem
 
 There are duties in every life that are irksome. Young people sometimes find school work dull. There are Faithful mothers who many a day grow weary of the endless duties of the household. There are good men who tire ofttimes of the routine of office, or store, or mill, or farm. There comes to most of us, at times, the feeling that what we have to do day after day is not worthy of us. We have had glimpses, or brief experiences, of life in its higher revealings. It may have been a companionship for a season with one above us in experience or attainment, that has lifted us up for a little time into exalted thoughts and feelings, after which it is hard to come back again to the old plodding round, and to the old, uninteresting companionships. It may have been a visit to some place or to some home, with opportunities, refinements, inspirations, privileges, above those which we can have in our own narrower surroundings and plainer home and less congenial intimacies.
 
@@ -219,7 +219,7 @@ It is not ordinarily in the easy ways, in the luxurious surroundings, in the pat
 
 # Chapter 4: The Possibilities of Prayer
 
-<div id="chapterOpening">
+\startchapteropening
 Ask and receive—'tis sweetly said;  
 Yet what to plead for know I not,  
 For wish is worsted, hope o'ersped,  
@@ -230,8 +230,8 @@ But this, that God may be God still:
 For time to live  
 So still to give,  
 And sweeter than my wish his will.  
-—David A. Wasson  
-</div>
+--- David A. Wasson  
+\stopchapteropening
 
 We do not begin to realize the possibilities of prayer. There is no limit, for example, to the scope of prayer. We may embrace in it all things that belong to our life, not merely those which affect our spiritual interests, but those as well which seem to be only worldly matters. Nothing that concerns us in any way is matter of indifference to God. One writes: "Learn to entwine with your prayers the small cares, the trifling sorrows, the little wants of daily life. Whatever affects you—be it a changed look, an altered tone, an unkind word, a wrong, a wound, a demand you cannot meet, a sorrow you cannot disclose—turn it into prayer and send it up to God. Disclosures you may not make to man, you can make to the Lord. Men may be too little for your great matters; God is not too great for your small ones. Only give yourself to prayer, whatever be the occasion that calls for it."
 
@@ -243,7 +243,7 @@ Yet we all know, unless our thoughts and feelings are very shallow and trivial, 
 
 It is specially true of prayer that we cannot utter its deepest feelings and holiest desires. We have comfort, however, in the assurance that God can hear thoughts. He knows what we want to say and cannot express. Your dearest friend may stand close to you when your mind is full of thoughts, but unless you speak or give some sign, he cannot know one of your thoughts. He may lay his ear close to your heart, and he will hear its throbbings; but he cannot hear your feelings, your desires. Yet God knows all that goes on in your soul. Every thought that flies through your brain is heard in heaven.
 
-<div id="poem">
+\startpoem
 O Lord, thou hast searched me, and known me.  
 Thou knowest my downsitting and mine uprising,  
 Thou understandest my thought afar off.  
@@ -251,49 +251,49 @@ Thou searchest out my path and my lying down,
 And art acquainted with all my ways.  
 For there is not a word in my tongue,  
 But, lo, O Lord, thou knowest it altogether.  
-</div>
+\stoppoem
 
 We need not trouble ourselves, therefore, if we cannot get our wishes into words when we pray, for God hears wishes, heart-longings, soul hungerings and thirstings. The things we cannot say in speech of the lips, we may ask God' to take from our heart's speech. There is not the feeblest, faintest glimmer of a desire rising on the far-away horizon of our being, but God sees it. There is not a heart-hunger, not a wish to be holier and better, not an aspiration to be more Christ-like, not a craving to live for God and be a blessing to others, not the faintest desire to be rid of sin's power, but God knows of it. St. Paul has a wonderful word on this subject: God, he says, "is able to do exceeding abundantly above all that we ask or think." When our heart is stirred to its depths, what large, great things can wc ask in words? Then, how much can we put into thoughts of prayer, into longings, desires, aspirations, beyond the possibilities of speech? God can do more than we can pray either in words or thoughts.
 
 Our truest praying is that which we cannot express in any words, our heart's unutterable longings, when we sit at God's feet and look up into his face and do not speak at all, but let our hearts talk.
 
-<div id="poem">
+\startpoem
 Rather as friends sit sometimes hand in hand,  
 Nor mar with words the sweet speech of their eyes;  
 So in soft silence let us oftener bow,  
 Nor try with words to make God understand.  
 Longing is prayer; upon its wings we rise  
 To where the breath of heaven beats upon our brow.  
-</div>
+\stoppoem
 
 Our best, truest prayers are not for earthlythings, but for spiritual blessings. When the objects are temporal, we do not know what we should pray for—what would be really a blessing to us. You are a loving parent, and your child is very ill. It seems that it must die. You fall upon your knees before God to pray, but you do not know what to ask. Your breaking heart would quickly plead, "Lord, spare my precious child "; but you do not know that that is best. Perhaps to live would not be God's sweetest gift to your child, or to you. So, not daring to choose, you can only say, "Lord God, I cannot speak more; but thou knowest thy child; thou understandest what is best."
 
 Or, some plan of yours, which you have long cherished, seems about to be thwarted. You go to God, and begin to pray; but you do not know what to ask. You can only say, "Lord, I cannot tell what is best; but thou knowest." What a comfort it is that God does indeed know, and that we may safely leave our heart's burden in his hand, without any request whatever!
 
-<div id="poem">
+\startpoem
 Lord, I had chosen another lot,  
 But then I had not chosen well;  
 Thy choice, and truly thine, was good;  
 No different lot, search heaven or hell,  
 Had blessed me, fully understood,  
 None other which thou orderest not.  
-</div>
+\stoppoem
 
 We can do little more than this in any request for temporal things. Says Archdeacon Farrar: "There are two things to remember about prayers for earthly things: One, that to ask mainly for earthly blessings is a dreadful dwarfing and vulgarization of the grandeur of prayer, as though you asked for a handful of grass, when you might ask for a handful of emeralds; the other that you must always ask for earthly desires with absolute submission of your own will to God's." So silence is ofttimes the best and truest praying—bowing before God in life's great crises; but saying nothing, leaving the burden in God's hand without any choosing. We are always safe when we let God guide us in all our ways.
 
-<div id="poem">
+\startpoem
 I'll that he blesses is our good,  
 And unblest good is ill;  
 And all is right that seems most wrong,  
 If it be his sweet will.  
-</div>
+\stoppoem
 
 Many of the richest possibilities of prayer lie beyond valleys of pain and sorrow. The best things of life cannot be gotten save at sore cost. When we pray for more holiness, we do not know what we are asking for; at least we do not know the price we must pay to get that which we ask. Our "Nearer, my God, to thee," must be conditioned by, and often can come only through,
 
-<div id="poem">
+\startpoem
 E'en though it be a cross,  
 That raiseth me.  
-</div>
+\stoppoem
 
 Not only are the spiritual things the best things, but many times the spiritual things can be grasped only by letting go and losing out of our hands the earthly things we would love to keep. God loves us too much to grant our prayers for comfort and relief, even when we make them, if he can do it only at spiritual loss to us. He would rather let it be hard for us to live if there is blessing in the hardness, than make it easy for us at the cost of the blessing.
 
@@ -309,7 +309,7 @@ So it sometimes is in prayer. We bring our empty vessel to God and pass it over 
 
 Then sometimes God delays until some work sn us is finished, some preparation which is needed before the best answer can be received. The following words are suggestive:
 
-<div id="poem">
+\startpoem
 Unanswered yet, the prayer your lips have pleaded  
 In agony of heart these many years?  
 Does faith begin to fail? Is hope departing,  
@@ -337,30 +337,30 @@ Amid the wildest storms she stands undaunted,
 Nor quails before the loudest thunder shock.
 She knows Omnipotence has heard her prayer,
 And cries, It shall be done—sometime, somewhere.'  
-</div>
+\stoppoem
 
 
 
 # Chapter 5: Getting Christ's Touch
 
-<div id="chapterOpening">
+\startchapteropening
 This is life—to pour out love unstinted;  
 Good and evil, sunlike, blesseth he;  
 Through your finite is his infinite hinted—  
 Children of your Father must ye be.  
-—Lucy Larcom  
-</div>
+--- Lucy Larcom  
+\stopchapteropening
 
 There was wonderful power in the touch of Christ when he was on the earth. Wherever he laid his hand, he left a blessing, and sick, sad, and weary ones received health, comfort, and peace. That hand, glorified, now holds in its clasp the seven stars. Yet there are senses in which the blessed touch of Christ is felt yet on men's lives. He is as really in this world today as he was when he walked in human form through Judea and Galilee. His hand is yet laid on the weary, the suffering, the sorrowing, and, though its pressure is unfelt, its power to bless is the same as in the ancient days. It is laid on the sick, when precious heavenly words of cheer and encouragement from the Scriptures are read at their bedside, giving them the blessing of sweet patience, and quieting their fears. It is laid on the sorrowing, when the consolations of divine love come to their hearts with tender comfort, giving them strength to submit to God's will and rejoice in the midst of trial. It is laid on the faint and weary, when the grace of Christ comes to them with its holy peace, hushing the wild tumult, and giving true rest of soul.
 
 But there is another way in which the hand of Christ is laid on human lives. He sends his disciples into the world to represent him. "As the Father hath sent me, even so send I you," is his own word. Of course the best and holiest Christian life can be only the dimmest, faintest reproduction of the rich, full, blessed life of Christ. Yet it is in this way, through these earthen vessels, that he has ordained to save the world, and to heal, help, comfort, lift up, and build up men.
 
-<div id="poem">
+\startpoem
 In these earthen vessels heavenly treasure  
 For the enrichment of thy poor may shine;  
 Thou canst fill us in our human measure  
 With thy being's overflow divine.  
-</div>
+\stoppoem
 
 Perhaps in thinking of what God does for the world, we are too apt to overlook the human agents and instruments, and to think of him touching lives directly and immediately. A friend of ours is in sorrow, and, going to our knees, we pray God to give him comfort. But may it not be that he would send the comfort through our own heart and lips? One we love is not doing well, is drifting away from a true life, is in danger of being lost. In anguish of heart we cry to God, beseeching him to lay his hand on the imperiled life, and rescue it. But may it not be that ours is the hand that must be stretched out in love, and laid, in Christ's name, on the life that is in danger?
 
@@ -370,7 +370,7 @@ But before we can be in the place of Christ to sorrowing, suffering, and struggl
 
 "When I have attempted," says Emerson, "to give myself to others by services, it proved an intellectual trick—no more. They eat your services like apples, and leave you out. But love them, and they feel you and delight in you all the time." When we love others we can help them in all deep and true ways. We can put blessings into their hearts instead of merely into their hands. We can enter into their very being, becoming new breath of life to them—quickening, inspiration, impulse.
 
-<div id="poem">
+\startpoem
 What is the best a friend can be  
 To any soul, to you or me?  
 Not only shelter, comfort, rest—  
@@ -388,7 +388,7 @@ Our friend is an unconscious part
 Of every true beat of our heart;  
 A strength, a growth, whence we derive  
 God's health, that keeps the world alive.  
-</div>
+\stoppoem
 
 There is a touching and very suggestive story of a good woman in Sweden, who opened a home for crippled and diseased children—children for whom no one else was ready to care. In due time she received into her home about twenty of these unfortunate little ones. Among them was a boy of three years, who was a most frightful and disagreeable object. He resembled a skeleton. His skin was covered with hideous blotches and sores. He was always whining and crying. This poor little fellow gave the good lady more care and trouble than all the others together. She did her best for him, and was as kind as possible—washed him, fed him, nursed him. But the child was so repulsive in his looks and ways, that, try as she would, she could not bring herself to like him, and often her disgust would show itself in her face in spite of her effort to hide it. She could not really love the child.
 
@@ -410,7 +410,7 @@ Everywhere about us there are lives, cold, and cheerless, and dull, which by the
 
 # Chapter 6: The Blessing of a Burden
 
-<div id="chapterOpening">
+\startchapteropening
 Then welcome each reburr,  
 That turns earth's smoothness rough,  
 Each sting that bids nor sit nor stand nor go.  
@@ -418,8 +418,8 @@ Be our joys three parts pain I
 Strive, and hold cheap the strain;  
 Learn, nor account the pang; dare, never grudge the throe!  
 
-—Robert Browning  
-</div>
+-- Robert Browning  
+\stopchapteropening
 
 It is not always the easiest things that are the best things. Usually we have to pay for any good thing about its full value. In all markets commodities that cost little may be set down as worth but little. All our blessings may be rated in the same way. If they come easily, without great cost of effort or sacrifice, their value to us is not great. But if we can get them only through self-denial, tears, anguish, and pain, we may be sure that they hide in them the very gold of God. So it is that many of our best and richest blessings come to us in some form of rugged hardness.
 
@@ -455,7 +455,7 @@ There are griefs that hang no crape on the doorbell, that wear no black garments
 
 There is no need to try to solve that old, yet always new, question of human hearts, "Why does God permit so much suffering in his children?" It is idle to ask this question, and all efforts at answering it are not only vain, but they are even irreverent. We may be sure, however, of one thing, that in every pain and trial there is a blessing folded. We may miss it, but it is there, and the loss is ours if we do not get it. Every night of sorrow carries in its dark bosom its own lamps of comfort. The darkness of grief and trial is full of benedictions.
 
-<div id="poem">
+\startpoem
 The dark hath many dear avails;  
 The dark distils divinest dews;  
 The dark is rich with nightingales,  
@@ -464,7 +464,7 @@ With dreams, and with the heavenly muse.
 Of fret, of dark, of thorn, of chill,  
 Complain thou not, my heart, for these  
 Bank in the current of the will.  
-</div>
+\stoppoem
 
 The most blessed lives in the world are those that have borne the burden of suffering. "Where, think you," asks James Martineau, "does the Heavenly Father hear the tones of deepest love, and see on the uplifted face the light of most heartfelt gratitude? Not where his gifts are most profuse, but where they are most meager; not within the halls of successful ambition, or even in the dwellings of unbroken domestic peace; but where the outcast, flying from persecution, kneels in the evening on the rocks whereon he sleeps; at the fresh grave, where, as the earth is opened, heaven in answer opens too; by the pillow of the wasted sufferer, where the sunken eye, denied sleep, converses with the silent stars, and the hollow voice enumerates in low prayer the scanty list of comforts, the easily remembered blessings, and the shortened tale of hopes. Genial, almost to a miracle, is the soil of sorrow, wherein the smallest seed of love, timely falling, becometh a tree, in whose foliage the birds of blessed song lodge and sing unceasingly."
 
@@ -472,7 +472,7 @@ The truly happiest, sweetest, tenderest homes are not those where there has been
 
 In every burden of sorrow there is a blessing sent from God, which we ought not to thrust away. In one of the battles of the Crimea, a cannon-ball struck inside a fort, gashing the earth and sadly marring the garden beauty of the place. But from the ugly chasm there burst forth a spring of water, which flowed on thereafter, a living fountain. So the strokes of sorrow gash our hearts, leaving ofttimes wounds and scars, but they open for us fountains of rich blessing and of new life.
 
-<div id="poem">
+\startpoem
 Then Sorrow whispered gently: 'Take  
 This burden up. Be not afraid.  
 An hour is short. Thou scarce wilt wake  
@@ -481,7 +481,7 @@ My hand upon thee, when the hour
 Shall all have passed; and gladder then  
 For the brief pain's uplifting power,  
 Thou shalt but pity griefless men.'  
-</div>
+\stoppoem
 
 These are hints of the blessings of burdens. Our dull task-work, accepted, will train us into strong and noble character. Our temptations and hardships, met victoriously, knit thews and sinews of strength in our souls. Our pain and sorrow, endured with sweet trust and submission, leave us with life purified and enriched, with more of Christ in us. In every burden that God lays upon us, there is a blessing for us, if only we will take it.
 
@@ -489,7 +489,7 @@ These are hints of the blessings of burdens. Our dull task-work, accepted, will 
 
 # Chapter 7: Heart Peace Before Ministry 
 
-<div id="chapterOpening">
+\startchapteropening
 Like the star  
 That shines afar,  
 Without haste  
@@ -497,8 +497,8 @@ And without rest,
 Let each man wheel, with steady sway,  
 Round the task that rules the day,  
 And do his best.  
-—Goethe  
-</div>
+-- Goethe  
+\stopchapteropening
 
 Peace in the heart is one of the conditions of good work. We cannot do our best in anything if we are fretted and anxious. A feverish heart makes an inflamed brain, a clouded eye, and an unsteady hand. The people who really accomplish the most, and achieve the best results, are those of calm, self-controlled spirit. Those who are nervous and excited may be always busy, and always under pressure of haste; but in the end they do far less work than if they wrought calmly and steadily, and were never in a hurry.
 
@@ -534,7 +534,7 @@ The lesson, however, is for us all. We are in no condition for good work of any 
 
 # Chapter 8: Moral Curvatures
 
-<div id="chapterOpening">
+\startchapteropening
 I think we are too ready with complaint  
 In this fair world of God's. Had we no hope  
 Indeed beyond the zenith and the slope  
@@ -543,16 +543,16 @@ To muse upon eternity's constraint
 Round our aspirant souls; but since the scope  
 Must widen early, is it well to droop,  
 For a few days consumed in loss and taint?  
-—Mrs. Browning  
-</div>
+-- Mrs. Browning  
+\stopchapteropening
 
 Our Lord's miracles are parables in act. A woman came to him bent almost double, and went away straight. The human form is made for erectness. This is one of the marks of nobility in man, in contrast with the downward bending and looking of other animals. Man is the only creature that bears this erect form. It is a part of the image of God upon him. It indicates heavenly aspiration, hunger for God, desire for pure and lofty things, capacity for immortal blessedness. It tells of man's hope and home above the earth, beyond the stars. Says an old writer, "God gave to man a face directed upwards, and bade him look at the heavens, and raise his uplifted countenance toward the stars." The Greek word for "man" meant the upward looking. The bending of the form and face downward, toward the earth, has always been the symbol of a soul turned unworthily toward lower things, forgetful of its true home. Milton has this thought in describing Mammon:
 
-<div id="poem">
+\startpoem
 Mammon, the least erected spirit that fell  
 From heaven; for even in heaven his looks and thoughts  
 Were always downward bent.  
-</div>
+\stoppoem
 
 The look of a man's eyes tells where his heart is, whither his desires are reaching and tending, how his life is growing.
 
@@ -586,14 +586,14 @@ The same miracle Christ is able to work now upon souls that are bent, whether by
 
 # Chapter 9: Transfigured Lives
 
-<div id="chapterOpening">
+\startchapteropening
 The lives which seem so poor, so low,  
 The hearts which are so cramped and dull.  
 The baffled hopes, the impulse slow,  
 Thou takest, touchest all, and lot  
 They blossom to the beautiful.  
-—Susan Coolidge  
-</div>
+-- Susan Coolidge  
+\stopchapteropening
 
 Every Christian's life should be transfigured. There is a sense in which even a true believer's body becomes transfigured. We have all seen faces that appeared to shine as if there were some hidden light behind them. There are some old people who have learned well life's lessons of patience, peace, contentment, love, trust, and hope, and whose faces really glow as they near the sunset gates. Sometimes it is a saintly sufferer, who, in long endurance of pain, learns to lie on Christ's bosom in sweet unmurmuring quiet, and whose features take upon themselves increasingly the brightness of holy peace.
 
@@ -619,7 +619,7 @@ We each have in our soul, if we are true believers in Christ, a vision of spirit
 
 No other aim in life is worthy of an immortal being. We may become like the angels; what debasement, then, to let our lives, with all their glorious possibilities, be dragged down into the dust of shame and dishonor! Rather let us seek continually the glory for which we were made and redeemed. "Beloved, now are we children of God, and it is not yet made manifest what we shall be. We know that, if he shall be manifested, we shall be like him; for we shall see him even as he is. And every one that hath this hope set on him purifieth himself, even as he is pure."
 
-<div id="poem">
+\startpoem
 Wonderful the whiteness of thy glory;  
 Can we truly that perfection share?  
 Yes; our lives are pages of thy story,  
@@ -628,7 +628,7 @@ Tarnished forms—torn leaves—but thou canst mend them,
 Thou thine own completeness canst unfold  
 From our imperfections, and wilt end them  
 Dross consuming, turning dust to gold.  
-</div>
+\stoppoem
 
 A drop of water lay one day in a gutter, soiled, stained, polluted. Looking up into the blue of the sky, it began to wish for purity, to long to be cleansed and made crystalline. Its sigh was heard, and it was quickly lifted up by the sun's gentle fingers—up, out of the foul gutter, into the sweet air, then higher and higher; at length the gentle winds caught it and bore it away, away, and by and by it rested on a distant mountain-top, a flake of pure, white, beautiful snow.
 
@@ -638,14 +638,15 @@ This is a little parable of what the grace of God does for every sinful life tha
 
 # Chapter 10: The Interpretation of Sorrow
 
-<div id="chapterOpening">
+\startchapteropening
 So much we miss  
 If love is weak; so much we gain  
 If love is strong; God thinks no pain  
 Too sharp or lasting to ordain  
 To teach us this.  
-— Helen Hunt Jackson  
-</div>
+-- Helen Hunt Jackson  
+\stoppoem
+\stopchapteropening
 
 There will always be mysteries in sorrow. Men will always wonder what it means. It is impossible for us, with our earthly limitations, to understand it. Even the strongest Christian faith will have its questions, and many of its questions will have to remain unanswered until the horizon of life is widened, and its dim light becomes full and clear in heaven. Meanwhile, however, some of these questions may be at least partially answered, and grief's poignancy in some slight measure alleviated. And surely no smallest gleam of comfort should be withheld from the world that needs comfort so sorely, and cries out so hungrily for it.
 
@@ -659,13 +660,13 @@ The comfort in such a grief, is that which comes through faith in God even in th
 
 At the same time we are never to forget, while we trust God for the outcome of our disappointments, that every sorrow has its mission to our life. There is something he desires it to work in us. What it may be in any particular instance we cannot tell; nor is it wise for us to ask. The wisest, truest thing we can do is reverently to open our hearts to the ministry of the sorrow, asking God to do his will in us, not allowing us to hinder the beautiful work he would do, and helping us to rejoice even in the grief. The tears may continue to flow, but then with Mrs. Browning we can sing:
 
-<div id="poem">
+\startpoem
 I praise thee while my days go on;  
 I love thee while my days go on;  
 Through dark and death, through fire and frost,  
 With emptied arms and treasure lost,  
 I thank thee while my days go on.  
-</div>
+\stoppoem
 
 The other letter referred to is from another father, over whom wave after wave of sorrow had passed. Within a brief space of time two children were taken away. The one was a son who had entered his professional career, and had large hope and promise for the future—a young man of rare abilities and many noble qualities. The other was a daughter, who had reached womanhood, and was a happy and beloved wife, surrounded by friends and the refinements of a beautiful home, and all that makes life sweet and desirable. Both of these children God took, one soon after the other. The father, a man of most tender affections, and yet of implicit faith in God, uttered no murmur when called to stand at the graves of his beloved ones; and yet his heart cries out for interpretation.
 
@@ -691,7 +692,7 @@ Beyond these two wide, general lessons of all sorrow, it usually is not wise to 
 
 Mercifully our old duties come again after sorrow just as before, and we must take these all up, only putting into them more heart, more reverence toward God, more gentleness and love toward man. As we go on we shall know what God meant the grief to do for us; or if not in this world, we shall in that home of Light, where all mystery shall be explained, and where we shall see love's lesson plain and clear in all life's strange writing. There is no doubt that sorrow always brings us an opportunity for blessing. Then we must remember that in this world alone can we get the good that can come to us only through pain, for in the life beyond death there is to be no sorrow, no tears. An old Eastern proverb says, "Spread wide thy skirts when heaven is raining gold." Heaven is always raining gold when we are sitting under the shadow of the cross. We should diligently improve the opportunity, and learn the lessons he would teach and get the blessings he would give, for the time is short.
 
-<div id="poem">
+\startpoem
 But if, impatient, thou let slip thy cross,  
 Thou wilt not find it in this world again,  
 Nor in another; here, and here alone,  
@@ -701,20 +702,20 @@ Serve him and love him, praise him, work for him,
 Grow near and nearer him with all delight;  
 But there we shall not any more be called  
 To suffer, which is our appointment here.  
-</div>
+\stoppoem
 
 
 # Chapter 11: Other People
 
-<div id="chapterOpening">
+\startchapteropening
 We need—each and all—to be needed,  
 To feel we have something to give  
 Towards soothing the moan of earth's hunger;  
 And we know that then only we live  
 When we feed one another, as we have been fed  
 From the hand that gives body and spirit their bread.  
-—Lucy Larcom  
-</div>
+-- Lucy Larcom  
+\stopchapteropening
 
 There are other people. We are not the only ones. Some of the others live close to us, and some farther away. We stand in certain relations to these other people. They have claims upon us. We owe them duties, services, love. We cannot cut ourselves off from them, from any of them, saying that they are nothing to us. We cannot rid ourselves of obligations to them and say we owe them nothing. So inexorable is this relation to others that in all the broad earth there is not an individual who has no right to come to us with his needs, claiming at our hand the ministry of love. The other people are our brothers, and there is not one of them that we have a right to despise, or neglect, or hurt, or thrust away from our door.
 
@@ -726,7 +727,7 @@ The good Samaritan is our Lord's answer to the question, "Who is my neighbor?" a
 
 No doubt it is hard to love the other people who hate us. It is not so hard just to let them alone, to pass them by without harming them, or even to pray for them in a way; but to love them—that is a sore test. We are apt to ask:
 
-<div id="poem">
+\startpoem
 Dear Lord, will it not do,  
 If we return not wrong for wrong,  
 And neither love nor hate?  
@@ -740,7 +741,7 @@ But love our enemies! Dear Lord,
 Is there not unto thee some easier way—  
 Some way through churchly service, song, or psalm,  
 Or ritual grand, to reach thy heaven's calm?  
-</div>
+\stoppoem
 
 But there comes no answer of Christly indulgence to such questions. Other people, though they be our enemies, are not thus taken out of the circle of those to whom we owe love. Our part is always pictured for us in the example of the good Samaritan.
 
@@ -754,7 +755,7 @@ The world is very full of sorrow and trial, and we cannot live among our fellow-
 
 We begin to felicitate ourselves upon some special prosperity, and the next moment some human need knocks at our door, and we must share our good things with a suffering brother. We may build up our fine theories of taking care of ourselves, of living for the future, oi laying up in the summer of prosperity for the winter of adversity, of providing for old age or for our children; but ofttimes all these frugal and economic plans have to yield to the exigencies of human need. The love that seeketh not its own plays havoc with life's hard logic, and with the plans of mere self-interest. We cannot say that anything is our own when our brother is suffering for what we can give.
 
-<div id="poem">
+\startpoem
 Herein is love: to strip the shoulders bare.  
 If need be, that a frailer one may wear  
 A mantle to protect it from the storm;  
@@ -768,7 +769,7 @@ To mutely bear reproach and suffer wrong,
 Nor lift the voice to show where both belong;  
 Nay, now, nor tell it e'en to God above—  
 Herein is love indeed, herein is love. 
-</div>
+\stoppoem
 
 Not a day passes in the commonest experiences of life, in which other people do not stand before us with their needs, appealing to us for some service which we may render to them. It may be only ordinary courtesy, the gentle kindness of the home circle, the patient treatment of neighbors or customers in business relations, the thoughtful showing of interest in old people or in children. On all sides the lives of others touch ours, and we cannot do just as we please, thinking only of ourselves, and our own comfort and good, unless we choose to be false to all the instincts of humanity, and all the requirements of the law of Christian love. We must think continually of other people.
 
@@ -781,21 +782,21 @@ These are but illustrations of the way other people impinge upon our life. They 
 
 # Chapter 12: The Blessing of Faithfulness
 
-<div id="chapterOpening">
+\startchapteropening
 It must be done by both; God never without me,
 I never without God.
 
-—Johannes Scheffler
-</div>
+-- Johannes Scheffler
+\stopchapteropening
 
 "Faithful servant" will be the commendation on the judgment day of those who have lived well on the earth. Not great deeds will be commended, but faithfulness. The smallest ministries will rank with the most conspicuous, if they are all that the weak hands could do. Indeed, the widow's two mites were more in value than the rich men's large coins.
 
-<div id="poem">
+\startpoem
 Two mites, two drops, but all her house and land  
 Fell from an earnest heart but trembling hand;  
 The others1 wanton wealth foamed high and brave;  
 The others cast away, she only gave.  
-</div>
+\stoppoem
 
 Yet faithfulness as a measure of requirement is not something that can be reached without effort. It does not furnish a pillow for indolence. It is not a letting down of obligation to a low standard, to make life easy. It is indeed a lofty measurement. "Thou hast been faithful" is the highest possible commendation.
 
@@ -803,15 +804,15 @@ It may not be amiss to look a little at the meaning of the word as a standard of
 
 Lovers of the violin are familiar with the name of Stradivarius, the old violin-maker of Cremona. He has been dead nearly two hundred years, and his violins now bring fabulous prices. George Eliot, in one of her poems, puts some noble words into the mouth of the old man. Speaking of the masters who will play on his violins, he says:
 
-<div id="poem">
+\startpoem
 While God gives them skill,  
 I give them instruments to play upon,  
 God choosing me to help him.  
-</div>
+\stoppoem
 
 Referring to another violin-maker, his rival, he says:
 
-<div id="poem">
+\startpoem
 But were his the best,  
 He could not work for two.  
 My work is mine,  
@@ -826,7 +827,7 @@ But not without men's hands.
 He could not make  
 Antonio Stradivari's violins  
 Without Antonio.  
-</div>
+\stoppoem
 
 At first reading these words may indeed seem heretical and irreverent, but they are not. It is true, indeed, that even God cannot do our work without us, without our skill, our faithfulness. If we fail or do our little duty negligently, there will be a blank or a blur where there ought to have been something beautiful. As another says, "The universe is not quite perfect without my work well done."
 
@@ -846,7 +847,7 @@ The self-culture that there is in the mere habit of faithfulness is in itself a 
 
 # Chapter 13: Without Axe or Hammer
 
-<div id="chapterOpening">
+\startchapteropening
 Souls are built as temples are,—  
 Based on truth's eternal law,  
 Sure and steadfast, without flaw,  
@@ -855,14 +856,14 @@ Up and on the building goes;
 Every fair thing finds its place,  
 Every hard thing lends a grace,  
 Every hand may make or mar.  
-</div>
+\stopchapteropening
 
 We read of the temple of Solomon, when it was in building, that it was built of stone made ready in the quarry, so that neither hammer nor ax nor any tool of iron was heard in the house while it went up.
 
-<div id="poem">
+\startpoem
 No workman's steel, no ponderous axes rung;
 Like some tall palm, the noiseless fabric sprung.
-</div>
+\stoppoem
 
 So it is that the great work of spiritual temple-building goes on continually in this world. We are all really silent builders. The kingdom of God cometh not with observation. The divine Spirit works in silence, changing men's hearts, transforming lives, comforting sorrow, kindling hope in darkened bosoms, washing scarlet souls white as snow. The preacher may speak with the voice of a Boanerges, but the power that reaches hearts is not the preacher's noise; silently the divine voice whispers in the soul its secret of conviction, or of hope, or of strength. The Lord is not in the storm, in the earthquake, in the fire, but in the sound of gentleness, the spirit's whisper, that breathes through the soul.
 
@@ -882,23 +883,23 @@ Quarry work is not always pleasant. If stones had hearts and sensibilities, they
 
 We are not stones; we have hearts and sensibilities, and we do cry out ofttimes as the hammer smites away the roughnesses in our character. But we must yield to the sore work and let it go on, or we shall never have our place as living stones in Christ's beautiful temple. We must not wince under the sharp chiseling of sorrow. Says Dr. T. T. Munger:
 
-<div id="poem">
+\startpoem
 When God afflicts thee, think he hews a rugged stone
 Which must be shaped, or else aside as useless thrown.
-</div>
+\stoppoem
 
 There is still another suggestion from this singular temple-building. Every individual life has its quarries where are shaped the blocks which afterward are built into character, or which take form in acts. Schools are the quarries, where, through years of patient study, the materials for life are prepared, the mind is disciplined, habits are formed, knowledge is gained, and power is stored. Later, in active life, the temple rises without noise of hammer or ax. Homes are quarries where children are trained, where moral truth is lodged in the heart, where the elements of character are hewn out like fair stones, to appear in the life in after days, w,hen it grows up among men.
 
 Then there are the thought-quarries back of what people see in every human life. Men must be silent thinkers before their words or deeds can have either great beauty or power. Extemporaneousness anywhere is of small value. Glib, easy talkers, who are always ready to speak on any subject, who require no time for preparation, may go on chattering forever, but their talk is only chatter. The words that are worth hearing come out of thought-quarries where they have been wrought ofttimes in struggle and anguish. Father Ryan, in one of the most exquisite of his poems, writes of the "valley of silence" where he prepares the songs he afterwards sings:
 
-<div id="poem">
+\startpoem
 In the hush of the valley of silence  
 I dream all the songs that I sing;  
 And the music floats down the dim valley  
 'Till each finds a word for awing,  
 That to hearts, like the dove of the deluge,  
 A message of peace they may bring.  
-</div>
+\stoppoem
 
 So it is of all great thoughts. Thinkers brood long in the silence and then come forth and their eloquence sways us. So it is with art. We look at a fine picture and our hearts are warmed by its wondrous beauty. But do we know the story of the picture? Years and years of thought and of tireless toil lie back of its enrapturing beauty. Or here is a book which charms you, which thrills and inspires you. Great thoughts lie on its pages. Do you know the book's story? The author lived, struggled, toiled, suffered, wept, that he might write the words which now help you. Back of every good life-thought which blesses men, lies a dark quarry where the thought was born and shaped into the beauty of form which makes it a blessing to the world.
 
@@ -912,7 +913,7 @@ A little child had been reading the beatitudes, and was asked which of the quali
 
 # Chapter 14: Doing Things for Christ
 
-<div id="chapterOpening">
+\startchapteropening
 We can best minister to him by helping them  
 Who dare not touch his hallowed garment's hem;  
 Their lives are even as ours—one piece, one plan.  
@@ -922,8 +923,8 @@ Who suffer or who sin. In sick souls he
 Lies bound and sighing, asks our sympathies;  
 Their grateful eyes thy benison bestow,  
 Brother and Lord—'Ye did it unto me.'  
-—Lucy Larcom  
-</div>
+-- Lucy Larcom  
+\stopchapteropening
 
 If Christ were here, we say, we would do many things for him. The women who love him would gladly minister to him as did the women who followed him from Galilee. The men who are his friends would work to help him in any ways he might direct. The children who are trying to please him would run errands for him. We all say we would be delighted to serve him if only he would come again to our world and visit our homes. But we can do things for him just as really as if he were here again in human form.
 
@@ -931,7 +932,7 @@ One way of doing this is by obeying him. He is our Lord. Nothing pleases him so 
 
 We do things for Christ which we do through love to him. Even obedience without love does not please him. But the smallest services we can render, if love inspire them, he accepts. Thus we can make the commonest tasks of our lives holy ministries, as sacred as what the angels do. There is a legend of a monk who painted in an old convent-cell pictures of martyrs and holy saints and of the sweet Christface with the crown of thorns. Men called his pictures only daubs.
 
-<div id="poem">
+\startpoem
 One night the poor monk mused, 'Could I but render  
 Honor to Christ as other painters do—  
 Were but my skill as great as is the tender  
@@ -951,13 +952,13 @@ And round the walls the paintings shone resplendent
 With lights and colors to this world unknown,  
 A perfect beauty and a hue transcendent,  
 That never yet on mortal canvas shone.  
-</div>
+\stoppoem
 
 There is a beautiful meaning in the old legend. Christ scorns no work that is done for love of him. Most of us have much drudgery in our lives, but even this we can make glorious by doing it through love for Christ.
 
 Things we do for others in Christ's name, are done for him. We all remember that wonderful "inasmuch" in the twenty-fifth of Matthew. If we find the sick one, or the poor one, and go and minister, as we may be able, as unto the Lord, the deed is accepted as if done to him in person. Mrs. Margaret J. Preston, in one of her beautiful poems, tells of a weary sister who grieved sorely because, as it seemed to her, she had not been able to do any work for Christ. By a mother's dying bed she had promised to care for her little sister, and her work for the child so filled her hands that she had not time for anything else. As she grieved thus once, the little sister sleeping beside her stirred and told her of a sweet, strange dream she had had. She thought her sister was sitting sad because the King had bidden each one to bring him a gift.
 
-<div id="poem">
+\startpoem
 And in my dream I saw you there,  
 And heard you say, 'No hands can bear  
 A gift, that are so filled with care.'  
@@ -967,7 +968,7 @@ To hear you answer, wailing wild,
 "And then with such a look divine  
 ('Twas that awaked me with its shine),  
 He whispered, 'But the child is mine.'  
-</div>
+\stoppoem
 
 There are many for whom this little storypoem should have sweet comfort. There are fathers and mothers who find it hard to provide for their children. It takes all their time and strength, and sometimes they say, "I cannot do any work for Christ, because it takes every moment to earn bread and clothing for my little ones, and to care for them." But Jesus whispers, "Yes; yet your children are mine, and what you do for them you do for me."
 
@@ -979,7 +980,7 @@ Our work for Christ that fails in what we intended may yet leave a blessing in s
 
 The records of Christian ministry are full of such good work done unintentionally. Failing to leave a blessing where it was hoped a blessing would be received, it blessed some other life. We may not say that any good work has failed until we know in the last great harvest all the results of the things we have done and the words we have spoken.
 
-<div id="poem">
+\startpoem
 Not all who seem to fail have failed indeed;  
 Not all who fail have therefore worked in vain;  
 For all our acts to many issues lead;  
@@ -994,18 +995,18 @@ What though thy seed should fall by the wayside,
 And the birds snatch it?—Yet the birds are fed;  
 Or they may bear it far across the tide,  
 To give rich harvests after thou art dead.  
-</div>
+\stoppoem
 
 Many people die, and see yet no harvest from their life's sowing. They come to the end of their years, and their hands are empty. But when they enter heaven they will find that they have really been building there all the while, that the things that have seemed to leave no result on the earth have left glorious results inside the gates of pearl.
 
-<div id="poem">
+\startpoem
 There is no end to the sky,  
 And the stars are everywhere,  
 And time is eternity,  
 And the here is over there;  
 For the common deeds of the common day  
 Are ringing bells in the far away.  
-</div>
+\stoppoem
 
 Then even if the work we do does not itself leave any record, the doing of it leaves a record—an impression—on our own life. There is a word of Scripture which says, "He that doeth the will of God abideth forever." Doing God's will builds up enduring character in us. Every obedience adds a new touch of beauty to the soul. Every true thing we do in Christ's name, though it leave no mark anywhere else in God's universe, leaves an imperishable mark on our own life. Every deed of unselfish kindness that we perform with love for Christ in our heart, though it bless no other soul in all the world, leaves its sure benediction on ourselves.
 
@@ -1015,7 +1016,7 @@ Thousands of years since a leaf fell on the soft clay and seemed to be lost. But
 
 # Chapter 15: Helping and Over-Helping
 
-<div id="chapterOpening">
+\startchapteropening
 As we meet and touch each day  
 The many travelers on our way,  
 Let every such brief contact be  
@@ -1024,7 +1025,7 @@ The contact of the soil and seed,
 Each giving to the other's need,  
 Each helping on the other's best,  
 And blessing each as well as blessed.  
-</div>
+\stopchapteropening
 
 Even kindness may be overdone. One may be too gentle. Love may hold others back from duty, and thus may wreck destinies. We need to guard against meddling with God's discipline, softening the experience that he means to be hard, sheltering our friend from the wind that he intends to blow chillingly. All summer does not make a good zone to live in; we need autumn and winter to temper the heat, and keep vegetation from luxuriant overgrowth. The best thing we can do for others is not always to take their load or do their duty for them.
 
@@ -1055,33 +1056,33 @@ So all personal helpfulness should be wise and thoughtful. It should never tend 
 
 # Chapter 16: The Only One
 
-<div id="chapterOpening">
+\startchapteropening
 Before the monstrous wrong he sets him down—  
 One man against a stone walled city of sin.  
 When the red dust has cleared, the lonely soldier  
 Stands with strange thoughts beneath the friendly stars.  
 
-—E. R. Sill
-</div>
+-- E. R. Sill
+\stopchapteropening
 
 There are a great many people in this world—hundreds of millions, tables of population foot up. Yet in a sense each one of us is the only one. Each individual life has relations of its own in which it must stand alone, and into which no other life can come. Companionships may be close, and they may give much comfort and inspiration, but in all the inner meaning of life each individual lives apart and alone. No one can live your life for you. No one but yourself can answer your questions, meet your responsibilities, make your decisions and choices. Your relations with God no one but yourself can fulfill. No one can believe for you. A thousand friends may encircle you and pray for your soul, but until you lift up your own heart in prayer no communication is established between you and God. No one can get your sins forgiven but yourself. No one can obey God for you. No other one can do your work for Christ, or render your account at the judgment-seat.
 
 In the realm of experience also the same is true. Each person suffers alone, as if there were no other being in the universe. Friends may stand by us in our hours of pain or sorrow, and may sympathize with us or administer comfort or alleviation, but they enter not really into the experiences. In these we are alone. No one can meet your temptations for you, or fight your battles, or endure your trials. The tenderest friendship, the holiest love, cannot enter into the solitariness in which each one of us lives apart.
 
-<div id="poem">
+\startpoem
 Still in each heart of hearts a hidden deep  
 Lies, never fathomed by its dearest, best.  
-</div>
+\stoppoem
 
 This aloneness of life sometimes becomes very real in consciousness. All great souls experience it as they rise out of and above the common mass of men in their thoughts and hopes and aspirations, as the mountains rise from the level of the vale and little hills. All great leaders of men ofttimes must stand alone, as they move in advance of the ranks of their followers. The battles of truth and of progress have usually been fought by lonely souls. Elijah, for example, in a season of disheartenment and despondency, gave it as part of the exceptional burden of his life that he was the only one in the field for God. It is so in all great epochs; God calls one man to stand for him. As Robert Browning says:
 
-<div id="poem">
+\startpoem
 In life exceptional,  
 When old things terminate and new commence,  
 A solitary great man's worth the world.  
 God takes the business in his own hand  
 At such time.  
-</div>
+\stoppoem
 
 But the experience is not that only of great souls; there come times in the lives of all who are living faithfully and worthily when they must stand alone for God, without companionship, perhaps without sympathy or encouragement. Here is a young person, the only one of his family who has confessed Christ. He takes him as his Savior, and then stands up before the world and vows to be his and follow him. He goes back to his home. The members of the home circle are very dear to him; but none of them are Christians, and he must stand alone for Christ among them. Perhaps they oppose him in his discipleship—in varying degrees this ofttimes is the experience. Perhaps they are only indifferent, making no opposition, only quietly watching his life to see if it is consistent. In any case, however, he must stand for Christ alone, without the help that comes from companionship.
 
@@ -1109,7 +1110,7 @@ This is very suggestive and very comforting. We are not responsible for finishin
 
 Mr. Sill illustrates this truth in one of his poems, where, speaking of the young, "led on by courage and immortal hope, and with the morning in their hearts," he says:
 
-<div id="poem">
+\startpoem
 They to the disappointed earth shall give  
 The lives we meant to live,  
 Beautiful, free, and strong;  
@@ -1117,11 +1118,11 @@ The light we almost had
 Shall make them glad;  
 The words we waited long  
 Shall run in music from their voice and song.  
-</div>
+\stoppoem
 
 Mr. Whittier also suggests the same truth:
 
-<div id="poem">
+\startpoem
 Others shall sing the song,  
 Others shall right the wrong,  
 Finish what I begin,  
@@ -1130,7 +1131,7 @@ And all I fail of win.
 Mine or another's day,  
 So the right word be said  
 And life the sweeter made?  
-</div>
+\stoppoem
 
 So while we are alone in our responsibility we need give no thought for anything but our own duty, our own little fragment of the Lord's work. The things we cannot do some other one is waiting and preparing now to do after the work has passed from our hand. There is comfort in this for any who fail in their efforts, and must leave tasks unfinished which they hoped to complete. The finishing is another's mission.
 
@@ -1138,12 +1139,12 @@ So while we are alone in our responsibility we need give no thought for anything
 
 # Chapter 17: Swiftness in Duty
 
-<div id="chapterOpening">
+\startchapteropening
 Life is a leaf of paper white,  
 Whereon each one of us may write  
 His word or two—and then comes night.  
-—Lowell  
-</div>
+-- Lowell  
+\stopchapteropening
 
 Many good people are very slow. They do their work well enough, perhaps, but so leisurely that they accomplish in their brief time only a fraction of what they might accomplish. They lose, in aimless loitering, whole golden hours which they ought to fill with quick activities. They seem to have no true appreciation of the value of time, or of their own accountability for its precious moments. They live conscientiously, it may be, but they have no strong constraining sense of duty impelling them to ever larger and fuller achievement. They have a work to do, but there is no hurry for it; there is plenty of time in which to do it.
 
@@ -1153,12 +1154,12 @@ There can be no doubt that we are required to make the most possible of our life
 
 Dreaming through days and years, however brilliantly one may dream, can never satisfy the demands of the responsibility which inheres essentially in every soul that is born into the world. Life means duty, toil, work. There is something divinely allotted to each hour, and the hour one loiters remains forever an unfilled blank. We can ideally fulfill our mission only by living up always to the best that is in us, and by doing every day the very most that we can do.
 
-<div id="poem">
+\startpoem
 So here hath been dawning another blue day;  
 Think, wilt thou let it slip useless away?  
 Out of eternity this new day is born;  
 Into eternity at night will return.  
-</div>
+\stoppoem
 
 We turn over to our Lord for example, since his was the one life in all the ages that reached the divine thought, and filled out the divine pattern; and wherever we see him, we find him intent on doing the will of his Father, not losing a moment, nor loitering at any task. We see him ever hastening from place to place, from ministry to ministry, from baptism to temptation, from teaching to healing, from miracle-working to solitary prayer. His feet never loitered. He lost no moments; he seems indeed to have crowded the common work of years into a few short, intense hours. He is painted for us as a man continually under the strongest pressure, with a work to do which he was eager to accomplish in the shortest possible time. He was always calm, never in nervous haste, yet ever quietly moving with resistless energy on his holy errand.
 
@@ -1168,7 +1169,7 @@ Naturally we are indolent, and fond of ease and self indulgence. We need to be c
 
 Swiftness or slowness in duty is very much a matter of habit. As one is trained in early life, one is quite sure to continue in mature years. A loitering child will become a loitering man or woman. The habit grows, as all habits do.
 
-<div id="poem">
+\startpoem
 Lose this day loitering, 'twill be the same story  
 Tomorrow, and the next more dilatory;  
 The indecision brings its own delays,  
@@ -1179,7 +1180,7 @@ What you can do, and think you can, begin it.
 Boldness has genius, power, magic in it.  
 Only engage, and then the mind grows heated;  
 Begin it, and the work will be completed.  
-</div>
+\stoppoem
 
 Many people lose in the aggregate whole years of time out of their lives for want of system. They make no plan for their days. They let duties mingle in inextricable confusion. They are always in feverish haste. They talk continually of being overwhelmed with work, of the great pressure that is upon them, of being driven beyond measure. They always have the air of men who have scarcely time to eat or sleep. And there is nothing feigned in all their intense occupation. They really are hurried men. Yet in the end they accomplish but little in comparison with their great activity, because they work without order, and always feverishly and nervously. Swiftness in accomplishment is always calm and quiet. It plans well, suffering no confusion in tasks. Hurried haste is always flurried haste, which does nothing well. "Unhasting yet unresting" is the motto of quick and abundant achievement.
 
@@ -1210,11 +1211,11 @@ Duty be thy polar guide;
 Do the right whate'er betide.  
 Haste not! rest not! Conflicts past,  
 God shall crown thy work at last.  
-</div>
+\stoppoem
 
 There is another phase of the lesson. Not swiftness only, but patient persistence through days and years, is the mark of true living. There are many people who can work under pressure for a little time, but who tire of the monotony and slack in their duty by and by, failing at last because they cannot endure unto the end. There are people who begin many noble things, but soon weary of them and drop them out of their hands. They may pass for brilliant men, men even of genius, but in the end they have for biography only a volume of fragments of chapters, not one of them finished. Such men may attract a great deal of passing attention, while the tireless plodders working beside them receive no praise, no commendation; but in the real records of life, written in abiding lines in God's Book, it is the latter who will shine in the brightest splendor. Robert Browning puts this truth in striking way in one of his poems:
 
-<div id="poem">
+\startpoem
 Now, observe,  
 Sustaining is no brilliant self-display  
 Like knocking down or even setting up:  
@@ -1228,13 +1229,13 @@ And is to go on bearing that same load
 When Hercules turns ash on Oeta's top.  
 Tis the transition-stage, the tug and strain,  
 That strike men: standing still is stupid-like.  
-</div>
+\stoppoem
 
 So we get our lesson. There is so much to do in the short days that we dare not lose a moment. Life is so laden with responsibility that to trifle at any point is sin. Even on the seizing of minutes eternal issues may depend. Of course we must take needed rest to keep our lives in condition for duty. But what shall we say of those strong men and women who do almost nothing but rest? What shall we say of those who live only to have amusement, who dance away their nights and then sleep away their days, and thus hurry on toward the judgment-bar, doing nothing for God or for man? Life is duty; every moment of it has its own duty. There is no malfeasance so sad and so terrible in its penalties as that which wastes the golden years in idleness or pleasure, and leaves duty undone.
 
 Shall we not seek to crowd the days with most earnest living? Shall we not learn to redeem the time from indolence, from loitering, from unmethodicalness, from the waste of precious moments, from self-indulgence, from impatience of persistent toil, from all that lessens achievement? Shall we not learn to work swiftly for our Master?
 
-<div id="poem">
+\startpoem
 You must live each day at your very best:  
 The work of the world is done by few;  
 God asks that a part be done by you.  
@@ -1246,18 +1247,18 @@ I shall have it once, but it comes no more."
 Have a purpose, and do with your utmost might:  
 You will finish your work on the other side,  
 When you wake in his likeness, satisfied.  
-</div>
+\stoppoem
 
 
 
 # Chapter 18: The Shadows We Cast
 
-<div id="chapterOpening">
+\startchapteropening
 The smallest bark on life's tumultuous oceaa
 Will leave a track behind for evermore;  
 The slightest wave of influence set in motion  
 Extends and widens to the eternal shore.  
-</div>
+\stopchapteropening
 
 Every one of us casts a shadow. There hangs about us a sort of penumbra—a strange, indefinable something—which we call personal influence, which has its effect on every other life on which it falls. It goes with us wherever we go. It is not something we can have when we want to have it, and then lay aside when we will, as we lay aside a garment. It is something that always pours out from our life, like light from a lamp, like heat from flame, like perfume from a flower.
 
@@ -1273,7 +1274,7 @@ Common life is full of just such illustrations of the influence of kindly deeds.
 
 Influence is something, too, which even death does not end. When earthly life closes, a good man's active work ceases. He is missed in the places where his familiar presence has brought benedictions. No more are his words heard by those who ofttimes have been cheered or comforted by them. No more do his benefactions find their way to homes of need where so many times they have brought relief. No more does his gentle friendship minister strength and hope and courage to hearts that have learned to love him. The death of a good man, in the midst of his usefulness, cuts off a blessed ministry of helpfulness in the circle in which he has dwelt. But his influence continues. Longfellow writes:
 
-<div id="poem">
+\startpoem
 Alike are life and death  
 When life in death survives,  
 And the uninterrupted breath  
@@ -1288,17 +1289,17 @@ So when a great man dies,
 For years beyond our ken  
 The light he leaves behind him lies  
 Upon the paths of men.  
-</div>
+\stoppoem
 
 The influence which our dead have over us is ofttimes very great. We think we have lost them when we see their faces no more, nor hear their voices, nor receive the accustomed kindnesses at their hands. But in many cases there is no doubt that what our loved ones do for us after they are gone is quite as important as what they could have done for us had they stayed with us. The memory of beautiful lives is a benediction, softened and made more rich and impressive by the sorrow which their departure caused. The influence of such sacred memories is in a certain sense more tender than that of life itself. Death transfigures our loved one, as it were, sweeping away the faults and blemishes of the mortal life, and leaving us an abiding vision, in which all that was beautiful, pure, gentle, and true in him remains to us. We often lose friends in the competitions and strifes of earthly life, whom we would have kept forever had death taken them away in the earlier days when love was strong. Often is it true, as Cardinal Newman writes:
 
-<div id="poem">
+\startpoem
 He lives to us who dies; he is but lost who lives.
-</div>
+\stoppoem
 
 Thus even death doth not quench the influence of a good life. It continues to bless others long after the life has passed from earth. It is true, as Mrs. Sangster writes:
 
-<div id="poem">
+\startpoem
 They never quite leave us, our friends who have passed  
 Through the shadows of death to the sunlight above;  
 A thousand sweet memories are holding them fast  
@@ -1313,7 +1314,7 @@ And oft when alone, and oft in the throng,
 Or when evil allures us, or sin draweth nigh,  
 A whisper comes gently, 'Nay, do not the wrong,'  
 And we feel that our weakness is pitied on high.  
-</div>
+\stoppoem
 
 It must be remembered that not all influence is good. Evil deeds also have influence. Bad men live, too, after they are gone. Cried a dying man whose life had been full of harm to others: "Gather up my influence, and bury it with me in my grave." But the frantic, remorseful wish was in vain. The man went out of the world, but his influence stayed behind him, its poison to work for ages in the lives of others.
 
@@ -1329,7 +1330,7 @@ How can we make sure of an influence that shall be only a benediction? There is 
 
 # Chapter 19: The Meaning of Opportunities
 
-<div id="chapterOpening">
+\startchapteropening
 "Today" unsullied comes to thee—newborn,  
 Tomorrow is not thine;  
 The sun may cease to shine  
@@ -1338,8 +1339,8 @@ For thee, ere earth shall greet its morn.
 Nor fear approaching night;  
 Calm comes with evening light,  
 And hope and peace. Thy duty heed "today."  
-—Ruskin  
-</div>
+-- Ruskin  
+\stopchapteropening
 
 If people's first thoughts were but as good and wise as their after-thoughts, life would be better and more beautiful than it is. We can all see our errors more clearly after we have committed them than we saw them before. We frequently hear persons utter the wish that they could go again over a certain period of their life, saying that they would live it differently, that they would not repeat the mistakes or follies which had so marred and stained the record they had made.
 
@@ -1379,7 +1380,7 @@ In like manner many people wait for great and brilliant opportunities for doing 
 
 Opportunities come to all. The days of every life are full of them. But the trouble with too many of us is that we do not make anything out of them while we have them. Then next moment they are gone. One man goes through life sighing for opportunities. If only he had this or that gift, or place, or position, he would do great things, he says; but with his means, his poor chances, his meager privileges, his uncongenial circumstances, his limitations, he can do nothing worthy of himself. Then another man comes up close beside him, with like means, chances, circumstances, privileges, and he achieves noble results, does heroic things, wins for himself honor and renown. The secret is in the man, not in his environment. Mr. Sill puts this well in his lines:
 
-<div id="poem">
+\startpoem
 This I beheld, or dreamed it in a dream:  
 There spread a cloud of dust along a plain;  
 And underneath the cloud, or in it, raged  
@@ -1397,7 +1398,7 @@ Hilt buried in the dry and trodden sand,
 And ran and snatched it, and with battle shout  
 Lifted afresh he hewed his enemy down,  
 And saved a great cause that heroic day.  
-</div>
+\stoppoem
 
 With the blunt sword, broken now, which the craven had flung away as unfit for use, the princely hand won its great victory. Life is full of illustrations of this very experience. The materials of life which one man has despised and spurned as unworthy of him, as having in them no charmed secret of success, another man is forever picking up out of the dust, and with them achieving noble and brilliant successes. Men, alert and eager, are wanted, men with heroic heart and princely hand, to see and use the opportunities that lie everywhere in the most commonplace life.
 
@@ -1405,7 +1406,7 @@ There is but one thing to do to get out of life all its possibilities of attainm
 
 We have nothing to do, therefore, with anything save the privilege and duty of the one hour now passing. This makes the problem of living very simple. We need not look at our life as a whole, nor even carry the burden of a single year; if we but grasp well the meaning of the one little fragment of time immediately present, and do instantly all the duty and take all the privilege that the one hour brings, we shall thus do that which shall best please God and build up our own life into completeness. It ought never to be hard for us to do this.
 
-<div id="poem">
+\startpoem
 God broke our years to hours and days, that hour by hour  
 And day by day  
 Just going on a little way,  
@@ -1423,7 +1424,7 @@ Will burdens bear so deep,
 Or pathways lie so threatening and so steep,  
 But we can go, if by God's power  
 We only bear the burden of the hour.  
-</div>
+\stoppoem
 
 Living thus we shall make each hour radiant with the radiancy of duty well done, and radiant hours will make radiant years. But the missing of privileges and the neglecting of duties will leave days and years marred and blemished and make the life at last like a moth-eaten garment. We must catch the sacred meaning of our opportunities if we would live up to our best.
 
@@ -1431,7 +1432,7 @@ Living thus we shall make each hour radiant with the radiancy of duty well done,
 
 # Chapter 20: The Sin of Ingratitude
 
-<div id="chapterOpening">
+\startchapteropening
 The sun may shine upon the clod till it is warm,  
 Warm for its own poor darkling self to live.  
 He smites the diamond, and oh, how glows the gem,  
@@ -1440,8 +1441,8 @@ Chilling itself, irradiant, to give.
 In shining thankfulness, a smile, a tear,  
 Absorbing, makes none other glad, and misses so  
 The purest and the best of love's rich cheer.  
-— Mary K. A. Stone  
-</div>
+-- Mary K. A. Stone  
+\stopchapteropening
 
 Blessing given ought always to have some return. It is better to be a diamond, lighted to shine, than a clod, warmed to be only a dull, dark clod. We all receive numberless favors, but we do not all alike make fitting return.
 
@@ -1451,18 +1452,18 @@ There is no true life without its sacred memorial of special blessing or good. T
 
 Yet there seem to be many who forget their benefits. There is much ingratitude in the world. It may not be so universal as some would have us believe. There surely are many who carry in their hearts, undimmed for long years, the memory of benefits and kindnesses received from friends, and who never cease to be grateful and to show their gratitude. Wordsworth wrote:
 
-<div id="poem">
+\startpoem
 I've heard of hearts unkind,  
 Kind deeds with coldness still returning;  
 Alas! the gratitude of men  
 Hath left me oftener mourning.  
-</div>
+\stoppoem
 
 However, Archdeacon Farrar, referring to these words, says, "If Wordsworth found gratitude a common virtue, his experience must have been exceptional." There certainly are hearts unkind that do return coldness for kind deeds. There are children who forget the love and sacrifices of their parents and repay their countless kindnesses, not with grateful affection, honor, obedience, thoughtfulness, and service, but with disregard, indifference, disobedience, dishonor, sometimes even with shameful neglect and unkindness. There are those who receive help from friends in unnumbered ways, through years, help that brings to them great aid in life—promotion, advancement, improvement in character, widening of privileges and opportunities, tender kindness that warms, blesses, and inspires the heart, and enriches, refines, and ennobles the life—who yet seem never to recognize or appreciate the benefit and the good they receive. They appear to feel no obligation, no thankfulness. They make no return of love for all of love's ministry. They even repay it with complaint, with criticism, with bitterness. We have all known years of continued favors forgotten, and their memory wiped out by one small failure to grant a new request for help. We have all known malignant hate to be the return for long periods of lavish kindness.
 
 Ingratitude is robbery. It robs those to whom gratitude is due, for it is the withholding of that which is justly theirs. If you are kind to another, is he not your debtor? If you show another favors, does not he owe you thanks? True, you ask no return, for love does not work for wages. Only selfishness demands repayment for help given, and is embittered by ingratitude. The Christly spirit continues to give and bless, pouring out its love in unstinted measure, though no act or word or look tells of gratitude.
 
-<div id="poem">
+\startpoem
 If thy true service mounted, in its aim,  
 No higher than the praise that men bestow  
 On noble sacrifice, there might be shame  
@@ -1482,17 +1483,17 @@ To do God's will—that was enough for Christ,
 'Mid griefs that make all agonies look dim.  
 It shall for thee suffice—it hath sufficed,  
 As it sufficed for him.  
-</div>
+\stoppoem
 
 Yet while love does not work for wages, nor demand an equivalent for its services, it is sorely wronged when ungrateful lips are dumb. The quality of ingratitude is not changed because Faithful love is not frozen in the heart by its coldness. We owe at least loving remembrance to one who has shown us kindness, though no other return may be possible, or though large return may already have been made. We can never be absolved from the duty of being grateful. "Owe no man anything but love" is a heavenly word. We always owe love; that is a debt we never can pay off.
 
 Ingratitude is robbery. But it is cruelty as well as robbery. It always hurts the heart that must endure it. Few faults or injuries cause more pain and grief in tender spirits than ingratitude. The pain may be borne in silence. Men do not speak of it to others, still less to those whose neglect or coldness inflicts it; yet it is like thorns in the pillow.
 
-<div id="poem">
+\startpoem
 Blow, blow, thou winter wind;  
 Thou art not so unkind  
 As man's ingratitude.  
-</div>
+\stoppoem
 
 Parents suffer unspeakably when the children for whom they have lived, suffered, and sacrificed, prove ungrateful. The ungrateful child does not know what bitter sorrow he causes the mother who bore him and nursed him, and the father who loves him more than his own life; how their hearts bleed; how they weep in secret over his unkindness. We do not know how we hurt our friends when we treat them ungratefully, forgetting all they have done for us, and repaying their favors with coldness.
 
@@ -1504,7 +1505,7 @@ Silence is said to be golden, and ofttimes, indeed, it is better than speech. "I
 
 Especially in homes ought there to be more grateful expression. We wrong home friends more than any other friends. Home is where love is truest and tenderest. We need never fear being misunderstood by the loved ones who there cluster about us. Yet too often home is the very place where we are most miserly of grateful and appreciative words. We let gentle spirits starve close beside us for the words of affectionateness that lie warm, yet unspoken, on our tongues. None of us know what joy and strength we could impart to others, if only we would train ourselves to give fitting, delicate, and thoughtful expression to the gratitude that is in our hearts. We would become blessings to all about us, and would receive into our life new gladness. Nothing is sadder than the sorrow witnessed about many a coffin; the grief of bereavement and loss made bitter by the regret that now the too slow gratitude of the heart shall never have opportunity to utter itself in the ear which waited so long, hungry, and in vain, for the word that would have given such comfort.
 
-<div id="poem">
+\startpoem
 Over the coffin pitiful we stand,  
 And place a rose within the helpless hand,  
 That yesterday, mayhap, we would not see,  
@@ -1518,11 +1519,11 @@ With love—so much for every gentle thought;
 The moment when love's richest gifts are naught:  
 When a pale flower, upon a pulseless breast,  
 Like your regret, exhales its sweets in vain.  
-</div>
+\stoppoem
 
 But it is not enough that we be grateful and show our gratitude to the human friends who do us kindnesses. It is to God that we owe all. Every good and perfect gift, no matter how it reaches us, through what messenger, in what form, "cometh down from above, from the Father of lights." All the blessings of Providence, all the tender things that come to us through human love and friendship, are God's gifts.
 
-<div id="poem">
+\startpoem
 Whence came the father-heart in man,  
 The mother-heart in woman?  
 The love throughout the cosmic plan  
@@ -1531,7 +1532,7 @@ Which makes God's children human?
 Is good because 'tis given,  
 And all made better to man's soul  
 By the sweet touch of heaven.  
-</div>
+\stoppoem
 
 We owe thanks to God, therefore, for all that we receive. When we have shown gratitude to our human benefactors, we still owe our Heavenly Father thanks and gratitude. It is possible, too, for us to be grateful to the friends who help us, and yet be as atheists, never recognizing God, nor giving him any thanks. This is the sorest sin of all. We rob God, and hurt his heart, every time we receive any favor at whatsoever hand, and fail to speak our praise to him.
 
@@ -1544,15 +1545,15 @@ There is a story of some great conductor of a musical festival suddenly throwing
 
 # Chapter 21: Some Secrets of Happy Home Life
 
-<div id="chapterOpening">
+\startchapteropening
 The primal duties shine aloft like stars;  
 The charities that sooth and heal and bless  
 Are scattered at the feet of men like flowers.  
 The smoke ascends  
 To heaven as lightly from the cottage hearth  
 As from the lofty palace.  
-—William Wordsworth  
-</div>
+-- William Wordsworth  
+\stopchapteropening
 
 Home life ought to be happy. The benediction of Christ on every home to which he is welcomed as an abiding guest is, "Peace be to this house." While perfection of happiness is unattainable in this world, rich, deep, heartfilling happiness certainly may be, and ought to be, attained.
 
@@ -1568,7 +1569,7 @@ The wife, too, has a responsibility. It should be understood at the very beginni
 
 Children, too, are great blessings, when God sends them, bringing into the home rich possibilities of happiness. They cost care, and demand toil and sacrifice, ofttimes causing pain and grief: yet the blessing they bring repays a thousand times the care and cost. It is a sacred hour in a home when a baby is born and laid in the arms of a young father and mother. It brings fragments of heaven trailing after it to the home of earth. There are few deeper, purer joys ever experienced in this world than the joy of true parents at the birth of a child. Much of home's happiness along the years is made by the children. We say we train them, but they train us ofttimes more than we train them. Our lives grow richer, our hearts are opened, our love becomes holier when the children are about us. - Croons a young mother over her babe:
 
-<div id="poem">
+\startpoem
 And art thou mine, thou helpless, trembling thing,  
 Thou lovely presence? Bird, where is thy wing?  
 How pure thou art 1 fresh from the fields of light,  
@@ -1588,7 +1589,7 @@ Life of my life, for thee I crave best gifts and glad,
 More than, even in dreams, thy mother had!  
 O Father! fine this gold! Oh, polish this, my gem!  
 Till it is fair and fitting for thy diadem.  
-</div>
+\stoppoem
 
 Jesus said of little children that those who receive them, in his name, receive him. May we not then say that children bring great possibility of blessing and happiness to a home? They come to us as messengers from heaven, bearing messages from God. Yet we may not know their value while we have them. Ofttimes, indeed, it is only the empty crib and the empty arms that reveal to us the full measure of home happiness that we get from the children. Those to whom God gives children should receive them with reverence. There are homes where mothers, who once wearied easily of children's noises, sit now with aching hearts, and would give the world to have a baby to nurse, or a rollicking boy to care for. Children are among the secrets of a happy home.
 
@@ -1596,7 +1597,7 @@ Turning to the life of the household, affectionateness is one of the secrets of 
 
 These are not exaggerations. Yet there is love in these homes, and all that is needed is that it be set free to perform its sweet ministry. There are cold, cheerless homes which could be warmed into love's richest glow in a little while, if all the hearts of the household were to grow affectionate in expression. Does the busy husband think that his weary wife would not care any longer for the caresses and marks of tenderness with which he used to thrill her? Let him return again for a month to his old-time fondness, and then ask her if these youthful amenities are distasteful to her. Do parents think their grown-up children are too big to be petted, to be kissed at meeting and parting? Let them restore again, for a time, something of the affectionateness of the childhood days, and see if there is not a blessing in it. Many who are longing for richer home happiness, need only to pray for a spring-time of love, with a tenderness that is not afraid of affectionate expression.
 
-<div id="poem">
+\startpoem
 Comfort one another;  
 With the hand-clasp close and tender,  
 With the sweetness love can render,  
@@ -1604,7 +1605,7 @@ And looks of friendly eyes.
 Do not wait with grace unspoken  
 While life's daily bread is broken:  
 Gentle speech is oft like manna from the skies.  
-</div>
+\stoppoem
 
 We ought not to fear to speak our love at home. We should get all the tenderness possible into the daily household life. We should make the morning good-byes, as we part at the breakfast-table, kindly enough for final farewells; for they may be indeed final farewells. Many go out in the morning who never come home at night; therefore, we should part, even for a few hours, with kindly word, with lingering pressure of the hand, lest we may never look again in each other's eyes. Tenderness in a home is not a childish weakness, is not a thing to be ashamed of; it is one of love's sacred duties. Affectionate expression is one of the secrets of happy home life.
 
@@ -1620,7 +1621,7 @@ After a while the young folks scatter away, setting up homes of their own. How b
 
 # Chapter 12: God's Winter Plants
 
-<div id="chapterOpening">
+\startchapteropening
 The wind that blows can never kill  
 The tree God plants;  
 It bloweth east; it bloweth west;  
@@ -1630,8 +1631,8 @@ The tree God plants
 Strikes deeper root, grows higher still,  
 Spreads wider boughs, for God's good-will  
 Meets all its wants.  
-– Lillie E Barr  
-</div>
+-- Lillie E Barr  
+\stopchapteropening
 
 One of the papers tells of a newly discovered flower. It is called the snow-flower. It has been found in the northern part of Siberia. The plant shoots up out of the ice and frozen soil. It has three leaves, each about three inches in diameter. They grow on the side of the stem toward the north. Each of the leaves appears to be covered with little crystals of snow. The flower, when it opens, is star-shaped, its petals being of the same length as the leaves, and about half an inch in width. On the third day the extremities of the anthers show minute glistening specks, like diamonds, which are the seeds of this wonderful flower.
 
@@ -1639,13 +1640,13 @@ Is not this strange snow-flower an illustration of many Christian lives? God see
 
 Trial should not, therefore, be regarded with discouragement, as something which will stunt and dwarf the life and mar its beauty. It should be accepted rather, when it comes, as part of God's discipline, through which he would bring out the noblest and best possibilities of our character. Perhaps we would be happier for the time if we had easier, more congenial conditions. Children might be happier without restraint, without family government, without chastening—just left to grow up into all willfullness and waywardness. But there is something better in life than present happiness. Disciplined character in manhood, even though it has been gotten through stern and severe home-training, is better than a childhood and youth of unrestraint, with a worthless manhood as the outcome. A noble life, bearing God's image, even at the price of much pain and selfdenial, is better than years of freedom from care and sacrifice with a life unblessed and lost at the end. "To serve God and love him," says one, "is higher and better than happiness, though it be with wounded feet and bleeding hands and heart loaded with sorrow."
 
-<div id="poem">
+\startpoem
 So much we miss  
 If love is weak; so much we gain  
 If love is strong. God thinks no pain  
 Too sharp or lasting to ordain  
 To teach us this.  
-</div>
+\stoppoem
 
 It is well that we should understand how to receive trial so as to get from its hard experience the good it has for us. For one thing, we should accept it always reverently. Resistance forfeits the blessing which can be yielded only to the loving, submissive spirit. Teachableness is the unvarying condition of learning. To rebel against trial is to miss whatever good it may have brought for us. There are some who resent all severity and suffering in their lot as unkindness in God. These grow no better under divine chastening, but instead are hurt by it. When we accept the conditions of our life, however hard, as divinely ordained, and as the very conditions in which, for a time, we will grow the best, we are ready to get from them the blessing and good intended in them for us.
 
@@ -1653,20 +1654,20 @@ Another important suggestion is that we faint not under trial. There are those w
 
 Nothing is sadder in life than such yieldings. They are unworthy of immortal beings. The divine intention in trial never is to crush us, but always to do good to us in some way, to bring out in us new energy of life. Whatever the loss, struggle, or sorrow, we should accept it in love, humility, and faith, take its lessons, and then go on into the life that is before us. When one child is taken out of a home, the mother should, with more reverent heart and more gentle hand, turn the whole energy of her chastened life into love's channels, living more than ever before for her home and the children that are left to her. The man who has felt the stunning blow of a sudden grief or loss should kiss the hand of God that has smitten, and quickly arise and press onward to the battles and duties before him. We should never accept any defeat as final. Though it be in life's last hours, with only a mere fringe of margin left, and all our past failure and loss, still we should not despair.
 
-<div id="poem">
+\startpoem
 What though the radiance which was once so bright,  
 Be now forever taken from my sight;  
 Though nothing can bring back the hour  
 Of splendor in the grass, of glory in the flower,  
 We will grieve not, rather find  
 Strength in what remains behind.  
-</div>
+\stoppoem
 
 There is nowhere any better illustration of the way we should always rise again out of trial than we have in the life of St. Paul. From the day of his conversion till the day of his death, trouble followed him. He was misunderstood; he was cast out for Christ's sake; he met persecution in every form; he was shipwrecked; he lay in dungeons; he was deserted by his friends. But he never fainted, never grew discouraged, never spoke one word about giving up. "Cast down, but not destroyed," was the story of his life. He quickly arose out of every trial, every adversity, with a new light in his eye, a new enthusiasm in his heart. He could not be defeated, for he had Christ in him. Shall we not catch St. Paul's unconquerable spirit, that we may never faint in any trial?
 
 It requires faith to meet trouble and adversity heroically. Undoubtedly, at the time, the blessing is not apparent in the sorrow or the defeat. All seems disastrous and destructive. It is in the future, in the outworking, that the good is to come. It is a matter of faith, not of sight. "All chastening seemeth for the present to be not joyous, but grievous; yet afterward it yieldeth peaceable fruit unto them that have been exercised thereby, even the fruit of righteousness." Oh, the blessing of God's "afterwards"! Jacob one day thought and said that all things were against him, but afterward he saw that his great afflictions and losses were wrought in as parts of a beautiful plan of love for him. The disciples thought that the cross was the destruction of all their Messianic hopes; afterward they saw that it was the very fulfillment of these hopes. The pruning, which at the time cuts so into the life of the vine, lopping off great, rich branches, afterward is seen to have been the saving and enriching of the whole vine. So we always need faith. We must believe against appearances.
 
-<div id="poem">
+\startpoem
 Under the fount of ill  
 Many a cup doth fill,  
 And the patient lip, though it drinketh oft,  
@@ -1675,7 +1676,7 @@ Finds only the bitter still.
 Out of the dark must grow.  
 Sooner or later, whatever is fair,  
 Since the heavens have willed it so.  
-</div>
+\stoppoem
 
 Back and forth the plow was driven. The field was covered with grasses and lovely flowers, but remorselessly through them all the share tore its way, cutting furrow after furrow. It seemed that all the beauty was being hopelessly destroyed. But by and by harvest-time came, and the field waved with golden wheat. That was what the plowman's faith saw from the beginning.
 
@@ -1687,21 +1688,21 @@ Let us have the plowman's faith, and we shall not faint when the share is driven
 
 # Chapter 23: Unfinished Life-Building
 
-<div id="chapterOpening">
+\startchapteropening
 Let me not die before I've done for thee  
 My earthly work, whatever it may be.  
 Call me not hence, with mission unfulfilled;  
 Let me not leave my space of ground untilled;  
 Impress this truth upon me, that not one  
 Can do my portion, that I leave undone.  
-</div>
+\stopchapteropening
 
 We are all builders. We may not erect any house or temple on a city street, for human eyes to see, but every one of us builds a fabric which God and angels see. Life is a building. It rises slowly, day by day, through the years. Every new lesson we learn lays a block on the edifice which is rising silently within us. Every experience, every touch of another life on ours, every influence that impresses us, every book we read, every conversation we have, every act of our commonest days, adds something to the invisible building. Sorrow, too, has its place in preparing the stones to lie on the life-wall. All life furnishes the material.
 
-<div id="poem">
+\startpoem
 Our todays and yesterdays  
 Are the blocks with which we build.  
-</div>
+\stoppoem
 
 There are many noble fabrics of character reared in this world. But there are also many who build only low, mean huts, without beauty, which will be swept away in the testing-fires of judgment. There are many, too, whose lifework presents the spectacle of an unfinished building. There was a beautiful plan to begin with, and the work promised well for a little time; but after a while it was abandoned and left standing, with walls half-way up, a useless fragment, open and exposed, an incomplete, inglorious ruin, telling no story of past splendor as do the ruins of some old castle or coliseum, a monument only of folly and failure.
 
@@ -1719,7 +1720,7 @@ But there are abandoned life-buildings whose story tells only of shame and failu
 
 Sometimes it is discouragement that leads men to give up the work to which they have put their hand. In one of his poems, Wordsworth tells a pathetic story of a straggling heap of unhewn stones, and the beginning of a sheepfold which was never finished. With his wife and only son, old Michael, a Highland shepherd, dwelt for many years in peace. But trouble came which made it necessary that the son should go away to do for himself for a while. For a time good reports came from him, and the old shepherd would go out when he had leisure and would work on the sheepfold which he was building. By and by, however, sad news came from Luke. In the great dissolute city he had given himself to evil courses. Shame fell on him and he was driven to seek a hiding-place beyond the seas. The sad tidings broke the old father's heart. He went about as before, caring for his sheep. To the hollow dell, too, he would repair from time to time, meaning to build at the unfinished fold. But the neighbors in their pity noticed that he did little work in those sad days.
 
-<div id="poem">
+\startpoem
 Tis believed by all  
 That many and many a day he thither went  
 And never lifted up a single stone.  
@@ -1729,7 +1730,7 @@ Then old, beside him, lying at his feet.
 The length of full seven years from time to time  
 He at the building of his sheepfold wrought,  
 And left the work unfinished when he died.  
-</div>
+\stoppoem
 
 Years after the shepherd was gone the remains of the unfinished fold were still there, a sad memorial of one who began to build but did not finish. Sorrow broke his heart and his hand slacked.
 
@@ -1751,7 +1752,7 @@ The lesson from all this is, that we should finish our work, that we should allo
 
 Yet we must remember, lest we be discouraged, that only in a relative, human sense can any life-building be made altogether complete. Our best work is marred and imperfect. It is only when we are in Christ, and are co-workers with him, that anything we do can ever be made perfect and beautiful. But the weakest and the humblest, who are simply Faithful, will stand at last complete in him. Even the merest fragment of life, as it appears in men's eyes, if it be truly in Christ, and filled with his love and with his Spirit, will appear finished, when presented before the divine Presence. To do God's will, whatever that may be, to fill out his plan, is to be complete in Christ, though the stay on earth be but for a day, and though the work done fulfill no great human plan, and leave no brilliant record among men.
 
-<div id="poem">
+\startpoem
 Thy work unfinished! Do not fear  
 Though at his coming may be found  
 The stone unset.  
@@ -1759,12 +1760,12 @@ Yet, for thy faith, beyond the skies
 Thine own shall be the longed-for prize.  
 He knoweth best who calls from labor now  
 To rest, to build no more.  
-</div>
+\stoppoem
 
 
 # Chapter 24: Iron Shoes for Rough Roads
 
-<div id="chapterOpening">
+\startchapteropening
 Our feeble frame he knoweth,  
 Remembereth we are dust;  
 And evermore his face is kind,  
@@ -1773,8 +1774,8 @@ In evil and in blindness,
 Through darkened maze we rove,  
 But still our Father leads us home,  
 By strength of mighty love."  
-—Margaret E. Sangster
-</div>
+-- Margaret E. Sangster
+\stopchapteropening
 
 The matter of shoes is important. Especially is this true when the roads are rough and hard. We cannot then get along without something strong and comfortable to wear on our feet. One would scarcely expect to find anything in the Bible about such a need as this. Yet it only shows how truly the Bible is fitted to all our actual life to discover in it a promise referring to shoes.
 
@@ -1784,7 +1785,7 @@ Even the Bible words which took the most vivid local coloring from the particula
 
 Turning, then, this old-time assurance into a word for nineteenth-century pilgrims, we get from it some important suggestions. For one thing it tells us that we may have some rugged pieces of road before we get to the end of our life-journey. If not, what need would there be for iron shoes? If the way is to be flowerstrewn, velvet slippers, as Dr. McLaren somewhere suggests, would do. No man wants iron-soled shoes for a walk through a soft meadow. The journey is not likely to be all easy. Indeed, an earnest Christian life is never easy. No one can live nobly and worthily without struggle, battle, self-denial. One may find easy ways, but they are not the worthiest ways. They do not lead upward to the noblest things. One reason why many people never grasp the visions of beauty and splendor which shine before them in early years is because they have not courage for rough climbing.
 
-<div id="poem">
+\startpoem
 I reach a duty, yet I do it not,  
 And, therefore, climb no higher; but if done,  
 My view is brightened, and another spot  
@@ -1793,7 +1794,7 @@ For be the duty high as angel's flight—
 Fulfil it, and a higher will arise  
 Even from its ashes. Duty is our ladder to the skies,  
 And climbing not, we fall.  
-</div>
+\stoppoem
 
 We shall need our iron shoes if we are to make the journey that leads upward to the best possibilities of our life.
 
@@ -1805,7 +1806,7 @@ There was a compensation in Asher's rough portion. His rugged hills had iron in 
 
 There are few things from which young people of wealthy families suffer more than from over-help. No noble-spirited young man wants life made too easy for him by the toil of others. What he desires is an opportunity to work for himself. There are some things no other one can give us; we must get them for ourselves. Our bodies must grow through our own exertions. Our minds must be disciplined through our own study. Our hearts' powers must be developed and trained through our own loving and doing. One writes of two friends and two ways of showing friendship:
 
-<div id="poem">
+\startpoem
 One brought a crystal goblet overfull  
 Of water he had dipped from flowing streams  
 That rose afar where I had never trod—  
@@ -1832,7 +1833,7 @@ For that I knew my Master; and I smote,
 Even as Moses, my gray, barren rock,  
 And found sufficient help for all my house,  
 All my servants, all my flocks and herds.  
-</div>
+\stoppoem
 
 The best friend we can have is the one, not who digs out the treasure for us, but who teaches and inspires us with our own hands to open the rocks and find the treasures for ourselves. The digging out of the iron will do us more good than even the iron itself when it is dug out.
 
@@ -1844,7 +1845,7 @@ A great many people worry about the future. They vex themselves by anxious quest
 
 Some people are forever unwisely testing themselves by questions like these: "Could I endure sore bereavement? Have I grace enough to bow in submission to God, if he were to take away my dearest treasure? Or could I meet death without fear?" Such questions are unwise, because there is no promise of grace to meet trial when there is no trial to be met. There is no assurance of strength to bear great burdens when there are no great burdens to be borne. Help to endure temptation is not promised when there are no temptations to be endured. Grace for dying is nowhere promised while death is yet far off and while one's duty is to live.
 
-<div id="poem">
+\startpoem
 Of all the tender guards which Jesus drew  
 About our frail humanity, to stay  
 The pressure and the jostle that alway  
@@ -1859,7 +1860,7 @@ Assume the future's exigence unsent.
 God grants no overplus of power: 'tis shed  
 Like morning manna. Yet we dare to bow  
 And ask, "Give us today our morrow's bread."  
-</div>
+\stoppoem
 
 There is a story of shipwreck which yields an illustration that comes in just here. Crew and passengers had to leave the broken vessel and take to the boats. The sea was rough, and great care in rowing and steering was necessary in order to guard the heavily-laden boats, not from the ordinary waves, which they rode over easily, but from the great cross-seas. Night was approaching, and the hearts of all sank as they asked what they should do in the darkness when they would no longer be able to see these terrible waves. To their great joy, however, when it grew dark they discovered that they were in phosphorescent waters and that each dangerous wave rolled up crested with light which made it as clearly visible as if it were mid-day.
 
@@ -1876,13 +1877,13 @@ Dropping all figure, the whole lesson is that we cannot get along on our life's 
 
 # Chapter 25: The Shutting of Doors
 
-<div id="chapterOpening">
+\startchapteropening
 Never delay  
 To do the duty which the hour brings,  
 Whatever it be in great or smaller things;  
 For who doth know  
 What he shall do the coming day?  
-</div>
+\stopchapteropening
 
 The shutting of a door is a little thing and yet it may have infinite meaning. It may fix a destiny for weal or for woe. When God shut the door of the ark the sound of its closing was the knell of exclusion to those who were without, but it was the token of security to the little company of trusting ones who were within. When the door was shut upon the bridegroom and his friends who had gone into the festal hall, thus sheltering them from the night's darkness and danger, and shutting them in with joy and gladness, there were those outside to whose hearts the closing of that door smote despair and woe. To them it meant hopeless exclusion from all the privileges of those who were within and exposure to all the sufferings and perils from which those favored ones were protected.
 
@@ -1904,7 +1905,7 @@ There is a time for the choosing of friends, and when that time is passed and th
 
 So it is with the opportunities of doing good to others, comforting, helping, cheering, lightening burdens, giving gladness and joy. We stand continually before open doors which we do not enter. Ofttimes we shrink with timid feeling from the sweet ministry, holding back the sympathetic word or restraining ourselves from the doing of the gentle kindness, thinking our proffer of love might be unwelcome. Or we do not perceive the opportunity to give a blessing. This is true very often, especially in the closer and more tender intimacies of life. We do not recognize the heart-hunger in our loved ones, and we walk with them day by day, failing to help them in the thousand ways in which we might help them, until they are gone from us and the door is shut. Then all we can do is to bear the pain of regret, having only the hope that in some way in the life beyond, we may be able to pay—though so late—love's debt.
 
-<div id="poem">
+\startpoem
 How will it be  
 When you at last in heaven we see—  
 Dear souls, whose footsteps in lost days  
@@ -1949,25 +1950,25 @@ From your new mansion glorious
 Will you lean out to look for us?  
 Shut is the far-off, shining gate—  
 Are we too late?  
-</div>
+\stoppoem
 
 These are but illustrations. The same is true in all phases of life. Every day doors are opened for us which we do not enter. For a little time they stand open with bidding and welcome, and then they are closed, to be opened no more forever. To every one of us along our years there come opportunities, which, if accepted and improved, would fit us for worthy character, and for noble, useful living, and lead us in due time to places of honor and blessing. But how many of us there are who reject these opportunities and lose the good they brought for us from God! Then one by one the doors are shut, cutting off the proffered favors while we go on unblessed.
 
 There is another closing of doors which is even sadder than any of those which have been suggested. There is a shutting of our own heart's door upon God himself. He stands at our gate and knocks and there are many who never open to him at all, and many more who open the door but slightly. The latter, while they may receive blessing, yet miss the fullness of divine revealing which would flood their souls with love; the former miss altogether the sweetest benediction of life.
 
-<div id="poem">
-He that shuts Love out in turn shall be  
-Shut out from Love, and on his threshhold lie  
-Howling in outer darkness. Nor for this  
-Was common clay made from the common earth,  
-Moulded by God and tempered with the tears  
+\startpoem
+He that shuts Love out in turn shall be
+Shut out from Love, and on his threshhold lie
+Howling in outer darkness. Nor for this
+Was common clay made from the common earth,
+Moulded by God and tempered with the tears
 Of angels to the perfect shape of man.  
-</div>
+\stoppoem
 
 This sad sound of closing doors, as it falls day after day upon our soul's ears, proclaims to us continually that something which was ours, which was sent to us from God, and for which we shall have to answer in judgment, is ours no longer, is shut away forever from our grasp. It is a sad picture—the five virgins standing at midnight before a closed door through which they might have entered to great joy and honor, but which to all their wild importunity will open no more. It is sad, yet many of us are likewise standing before closed doors, doors that once stood open to us, but into which we entered not, languidly loitering outside until the sound of the shutting fell upon our ear as the knell of hopeless exclusion:
 
-<div id="poem">
+\startpoem
 Too late! Too late! Ye cannot enter now!
-</div>
+\stoppoem
 
 Of course the past is irreparable and irrevocable, and it may seem idle to vex ourselves in thinking about doors now closed, that no tears, no prayers, no loud knockings, can ever open again. Yes; yet the future remains. The years that are gone we cannot get back again, but new years are yet before us. They too will have their open doors. Shall we not learn wisdom as we look back upon the irrevocable past and make sure that in the future we shall not permit God's doors of opportunity to shut in our faces?
